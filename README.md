@@ -2,12 +2,12 @@
 Two-Cents: Footsteps of a Developer's Past
 
 ## Hi, How are ya?
-![Image of SpongeBob](https://github.com/HashWarlock/Two-Cents/tree/dev-repo-struct/img/hi-how-are-ya.png)
+![Image of SpongeBob](img/hi-how-are-ya.png)
 
-Welcome to the cryptic accounts that explore the depths of my creative freedom. As you roam the entangled paths of my understandings, know that I am honored to host your curiosity for this brief moment. This side expedition of mine will have oddities throughout meant to obscure the traditional meaning of structure. May these energies permeate throughout and provide a new definition of *what the hxll is he talking about?*
+Welcome to the cryptic writings that explore the depths of my creative freedom. As you roam the entangled paths of my understandings, know that I am honored to host your curiosity for this brief moment. This side expedition of mine will have errors in my knowledge, and I implore you to question all of my work for your own benefit. My goal is to explore the known unknowns to enhance my current interpretations of what I *know*. 
 
-> In the walls lies a dream of the sea
-> Met with the sand and fell to a knee
-> Wonder of why a wave that could be
-> To see a star and wonder of thee
-> - Iydee Kay
+> In the walls, lies a dream of the sea.
+> Met with the sand and fell to a knee.
+> Wonder of why waves that could be.
+> To look to the sky and wonder of thee.
+> - Idee Caye 
