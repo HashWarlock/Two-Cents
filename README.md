@@ -7,7 +7,7 @@ Two-Cents: Footsteps of a Developer's Past
 </p>
 
 <br>
-Welcome to the cryptic writings that explore the depths of my creative freedom. As you roam the entangled paths of my understandings, know that I am honored to host your curiosity for this brief moment. This side expedition of mine will have errors in my knowledge, and I implore you to question all of my work for your own benefit. My goal is to explore the known unknowns to enhance my current interpretations of what I *know*. 
+Welcome to the cryptic writings that explore the depths of my creative freedom. As you roam the entangled paths of my understandings, know that I am honored to host your curiosity for this brief moment. This side expedition of mine will have errors in my knowledge, and I implore you to question all of my work for your own benefit. My goal is to explore the known unknowns to enhance my current interpretations of software development and cyber security. 
 <br>
 <br>
 
