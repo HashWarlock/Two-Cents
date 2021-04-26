@@ -7,14 +7,14 @@ Two-Cents: Footsteps of a Developer's Past
 </p>
 
 <br>
-Welcome to the cryptic writings that explore the depths of my creative freedom. As you roam the entangled paths of my understandings, know that I am honored to host your curiosity for this brief moment. This side expedition of mine will have errors in my knowledge, and I implore you to question all of my work for your own benefit. My goal is to explore the known unknowns to enhance my current interpretations of software development and cyber security. 
+This repository will serve as my personal set of notes from any research I experience. These notes will track my interests, hobbies, software, thoughts, etc. throughout and will reflect my own Process to a better understanding.
 <br>
 <br>
 
 <p align="center">  
-    <em>"In the walls, lies a dream of the sea.<br />
-    Met with the sand and fell to a knee.<br />
-    Wonder of why waves that could be.<br />
-    To look to the sky and wonder of thee."</em> <br />
-    - Idee Caye
+    <em>"B's glare was disguised by a soft smile and blank stare.<br />
+    B was not upset, but B felt that these words of grandeur never made sense though he unquestionably accepted all terms. <br />
+    B knew full devotion to the vision of the Objects would prevent B from the Drop. <br />
+    What was an Item to do? Join the Drop and chain together. How would that even work? B lingered on that thought." </em> <br />
+    - Excert from Objects Owning Items: Last of The Dropped Items by Idee Caye
 </p>
